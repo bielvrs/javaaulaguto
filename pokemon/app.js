@@ -6,9 +6,9 @@ function VerificarResposta(){
 
     if(respostaCerta == true){
         alert("Parabéns!!!\nVocê Acertou.")
-}else{
+    }else{
     alert("Que pena, não foi dessa vez.")
     }
-    
+
 }
 
